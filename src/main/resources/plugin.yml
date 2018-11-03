@@ -1,0 +1,9 @@
+name: DynamicDistance
+version: 0.1-SNAPSHOT
+author: nullizer
+main: com.github.nullizer.DynamicDistancePlugin
+api-version: 1.13
+
+commands:
+  vd:
+    description: View Current Distance
